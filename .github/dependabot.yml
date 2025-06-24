@@ -2,6 +2,6 @@ version: 2
 
 updates:
   - package-ecosystem: "npm"
-    directory: "/" # caminho onde está seu package.json
+    directory: "/be1" # caminho do package.json
     schedule:
       interval: "weekly"
