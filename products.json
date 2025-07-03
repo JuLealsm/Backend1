@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1",
+    "title": "Morning Glow Tea",
+    "description": "Good for: Boosting your morning energy while supporting skin health and mental clarity. Infusion of nettle leaves, lemon balm, lemongrass, moringa leaves, calendula and rose buds, goji berries, and Japanese matcha green tea.",
+    "code": "PRD001",
+    "price": 5,
+    "status": true,
+    "stock": 35,
+    "category": "Teas and Infusers",
+    "thumbnails": [
+      "../img/tea-morningGlow.png"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Citrus Bloom Tea",
+    "description": "Perfect to enjoy at any time of the day: Japanese sencha green tea with pieces of orange, lemon, and sunflower sprouts. A super fresh blend with a vibrant citrus aroma.",
+    "code": "PRD002",
+    "price": 5,
+    "status": true,
+    "stock": 35,
+    "category": "Teas and Infusers",
+    "thumbnails": [
+      "../img/tea-citrusBloom.png"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Yellow Whisper Tea",
+    "description": "Good for Uplifting your mood and enhancing moments of quiet reflection. A blend of yellow tea and green tea with peach pieces, sunflower petals, and jasmine blossoms. An exclusive, limited-harvest tea with a delightful aroma and flavor.",
+    "code": "PRD003",
+    "price": 5,
+    "status": true,
+    "stock": 35,
+    "category": "Teas and Infusers",
+    "thumbnails": [
+      "../img/tea-yellowWhisper.png"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Camomile Candle",
+    "description": "Wrap yourself in the gentle warmth of chamomile. This candle brings a quiet calm to your space, inviting you to slow down, breathe deeply, and enjoy the simple rhythm of the present moment.",
+    "code": "PRD004",
+    "price": 15,
+    "status": true,
+    "stock": 35,
+    "category": "Aromatherapy and Well-being",
+    "thumbnails": [
+      "../img/candle-camomila.png"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Lavender Candle",
+    "description": "Infused with the soothing essence of lavender, this candle creates a tranquil atmosphere perfect for mindfulness, restful evenings, and unwinding after a long day. Light it and let your mind soften into stillness.",
+    "code": "PRD005",
+    "price": 15,
+    "status": true,
+    "stock": 35,
+    "category": "Aromatherapy and Well-being",
+    "thumbnails": [
+      "../img/candle-lavanda.png"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Vanilla Candle",
+    "description": "Soft and comforting, the sweet aroma of vanilla evokes a sense of home, grounding you in the now. Ideal for slow mornings, journaling, or simply doing nothing at all—on purpose.",
+    "code": "PRD006",
+    "price": 15,
+    "status": true,
+    "stock": 35,
+    "category": "Aromatherapy and Well-being",
+    "thumbnails": [
+      "../img/candle-vanilla.png"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Sandalwood Candle",
+    "description": "Earthy and meditative, sandalwood sets the tone for introspection and serenity. Light this candle to create your personal zen ritual—a moment to reconnect with your breath, your body, and your inner peace.",
+    "code": "PRD007",
+    "price": 15,
+    "status": true,
+    "stock": 35,
+    "category": "Aromatherapy and Well-being",
+    "thumbnails": [
+      "../img/candle-sandalo.png"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Classic Softcover Notebook",
+    "description": "Minimalist and simple, this softcover notebook is perfect for everyday journaling. With 60 blank pages of smooth 100gsm paper, it invites calm reflection and creative flow.",
+    "code": "PRD008",
+    "price": 10,
+    "status": true,
+    "stock": 35,
+    "category": "Journaling and Creativity",
+    "thumbnails": [
+      "../img/notebook-caramel.png"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Wrap Journal with Button Closure",
+    "description": "Crafted in dark brown leather with 400 thick pages and a charming button-and-cord wrap closure, it’s designed for long-term musings, stories, and slow reflections.",
+    "code": "PRD009",
+    "price": 35,
+    "status": true,
+    "stock": 35,
+    "category": "Journaling and Creativity",
+    "thumbnails": [
+      "../img/notebook-button.png"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Wildflower Embroidered Journal",
+    "description": "Celebrate nature’s beauty with this charming hand-embroidered journal. Inspired by the slow rhythms of the seasons, it’s the perfect place to capture thoughts, sketches, and daydreams. Ideal for mindful moments.",
+    "code": "PRD010",
+    "price": 35,
+    "status": true,
+    "stock": 35,
+    "category": "Journaling and Creativity",
+    "thumbnails": [
+      "../img/notebook-flower.png"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Mini Moss & Terracotta Notebooks",
+    "description": "Pocket-sized and playful, these recycled notebooks are perfect for those of you who don't identify with writing extensive reflections in a journal, but would still like to have a place to jot down thoughts or quotes.",
+    "code": "PRD011",
+    "price": 5,
+    "status": true,
+    "stock": 35,
+    "category": "Journaling and Creativity",
+    "thumbnails": [
+      "../img/notebook-small.png"
+    ]
+  },
+  {
+    "id": "1751556794034",
+    "name": "testing againnnnnn",
+    "description": "testing",
+    "price": 0,
+    "stock": 1,
+    "category": "Testing",
+    "thumbnails": [
+      "img/test.png"
+    ]
+  }
+]
